@@ -1,0 +1,36 @@
+
+/* ----------------------------------- */
+#explanation{
+  text-align: center;
+}
+#explanation h2{
+  display: inline-block;
+}
+/* ----------------------------------------- */
+#product{
+}
+#product #product1 img{
+  width: 300px;
+  height: 300px;
+  margin: 10px 0 0 100px;
+  border-radius: 500px;
+}
+#product1 p{
+  float: right;
+  margin: 150px 300px 0 0;
+}
+#product2{
+  display: inline-block;
+}
+#product #product2 img{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  margin: 0px 80px 0 900px;
+  border-radius: 500px;
+}
+#product2 p{
+  display: inline-block;
+  float: left;
+
+}
