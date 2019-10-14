@@ -1,0 +1,60 @@
+#menu{
+  text-align: center;
+  list-style-type: none;
+}
+#menu li {
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+  padding-right: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 30px;
+  border-right: solid;
+  color: black;
+}
+li a{
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+li a:hover{
+  text-decoration: none;
+  list-style: none;
+  color: blue;
+}
+/* --------------------------------------------------------------------- */
+#concept {
+  text-align: center;
+}
+#concept .dream h1{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+#flow h1{
+  text-align: center;
+}
+.flow1 h2{
+  text-align: center;
+}
+.flow1 img{
+  float: right;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.flow1 h3,p{
+  margin-left: 100px;
+}
+.flow2{
+  margin-top: 400px;
+}
+.flow2 h3,p{
+  margin-left: 100px;
+}
+.flow2 img{
+  float: right;
+  margin-top: 50px;
+  border-radius: 20px;
+}
